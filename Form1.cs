@@ -33,7 +33,7 @@ namespace Project
             string name = textBox1.Text;
             string password = textBox2.Text;
 
-            if (name == "MOHAMMED" && password == "2004")
+            if (name == "M" && password == "4")
             {
                 MessageBox.Show("Hellow Admin");
                 this.Hide();
